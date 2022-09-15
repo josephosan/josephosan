@@ -21,9 +21,9 @@ Apart from coding, I also maintain a webpage - you can find me on my at [josepho
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/josephosan/josephosan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephosan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephosan&layout=compact)](https://github.com/josephosan/github-readme-stats)
+
 <a href="https://github.com/josephosan/josephosan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=josephosan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
@@ -46,14 +46,4 @@ Apart from coding, I also maintain a webpage - you can find me on my at [josepho
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/heinz-martin/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/josephosan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephosan&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/josephosan/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephosan&repo=convoychat" />
-</a>
 
