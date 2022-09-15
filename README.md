@@ -4,7 +4,7 @@
 
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Yousof Osanlou and I'm a web developer. I'm from Iran, living in Tehran.
+My name is Yousof Osanlou and I'm a web developer. I'm from Iran, Living in Tehran.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -12,10 +12,11 @@ My name is Yousof Osanlou and I'm a web developer. I'm from Iran, living in Tehr
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Sql-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Webpage
 
-Apart from coding, I also maintain a webpage - you can find me on my at [josephosan.info](https://josephosan.info) or use my panel on [Panel](https://josephosan.info/panel).
+Apart from coding, I also maintain a webpage - you can find me on my at [josephosan.info](https://josephosan.info) or use my panel on [Panel](https://josephosan.info/panel/login).
 
 
 ## &#x1f4c8; GitHub Stats
@@ -45,4 +46,14 @@ Apart from coding, I also maintain a webpage - you can find me on my at [josepho
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/heinz-martin/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/josephosan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephosan&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/josephosan/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josephosan&repo=convoychat" />
+</a>
 
