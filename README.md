@@ -24,7 +24,7 @@ Apart from coding, I also maintain a webpage - you can find me on my at [josepho
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephosan&layout=compact)](https://github.com/josephosan/github-readme-stats)
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephosan&show_icons=true&theme=radical)
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephosan&show_icons=true&theme=dracula)
 
 <!-- icons with padding -->
 
