@@ -16,7 +16,7 @@ My name is Yousof Osanlou and I'm a web developer. I'm from Iran, Living in Tehr
 
 ## &#x270d; Webpage
 
-Apart from coding, I also maintain a webpage - you can find me on my at [josephosan.info](https://josephosan.info).
+Apart from coding, I also maintain a webpage - you can find me at [josephosan.info](https://josephosan.info).
 
 
 ## &#x1f4c8; GitHub Stats
